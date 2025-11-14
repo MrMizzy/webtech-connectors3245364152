@@ -110,7 +110,6 @@ button {
   background-color: #a371f5;
 }
 
-/* PROFILE PAGE */
 .profile-page {
   padding: 2rem;
   max-width: 700px;
@@ -195,6 +194,19 @@ button {
   font-size: 0.9rem;
 }
 
+.message-btn {
+  background-color: #b084f7;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.message-btn:hover {
+  background-color: #a371f5;
+}
 
 .chat-container {
   display: flex;
